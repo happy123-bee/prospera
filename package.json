@@ -1,1 +1,0 @@
-{"name": "prospera-fake", "scripts": {"dev": "next dev"}, "dependencies": {"react": "^18.0.0"}}
